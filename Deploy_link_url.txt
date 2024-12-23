@@ -1,0 +1,2 @@
+My Application currently running at this url----- "https://1ffb-35-231-24-161.ngrok-free.app" -> "http://localhost:8501"
+Github URL ------ https://github.com/nidhisahani-glitch/AI-STOCK-PREDICTION-APP.git
